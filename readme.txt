@@ -3,7 +3,7 @@
 ## 📌 Overview  
 This project is part of the Web Development course assignments. It focuses on **[briefly describe the objective, e.g., creating a dynamic and responsive webpage using modern web technologies].**  
 
-🔗 **Live Preview:** [Click here to view the project](#) *(Replace with actual link if hosted on GitHub Pages, Vercel, Netlify, etc.)*  
+🔗 **Live Preview:** [Click here to view the project](#) *(https://github.com/mayankrai2404/WebDev_Assignment_2.git)*  
 
 ---
 

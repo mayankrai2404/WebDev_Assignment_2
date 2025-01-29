@@ -5,7 +5,7 @@
 Welcome to the **Web Development Assignment 2** repository! This project is a part of the Web Development course designed to demonstrate proficiency in creating responsive and interactive web pages using modern technologies. The project showcases a dynamic webpage that adapts seamlessly to different screen sizes and devices.
 
 🔗 **Live Preview:**  
-[View the Project Live](https://github.com/mayankrai2404/WebDev_Assignment_2)
+[View the Project Live](https://mayankrai2404.github.io/WebDev_Assignment_2/)
 
 ---
 
